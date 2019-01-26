@@ -1,0 +1,38 @@
+        body {
+            font: 20px Montserrat, sans-serif;
+            line-height: 1.8;
+            color: #15304b;
+        }
+        p {
+            font-size: 16px;
+        }
+        .margin {
+            margin-bottom: 45px;
+        }
+        .bg-4 {
+            background-color: #2f2f2f;
+            color: #fff;
+        }
+        .container-fluid {
+            padding-top: 70px;
+            padding-bottom: 70px;
+        }
+        .container-fluid a {
+            color: #4460da;
+        }
+        a:hover {
+            text-decoration: none;
+            color: cadetblue;
+        }
+        h1 {
+            font-size: 70px;
+        }
+        h2 {
+            font-size: 35px;
+        }
+        footer p {
+            font-size: 18px;
+        }
+        .no_click{
+            pointer-events:none;
+        }
